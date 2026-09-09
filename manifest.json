@@ -1,0 +1,11 @@
+JSON
+{
+  "name": "Plano Data Center Interactive SVG",
+  "organization": "Data Center Ops",
+  "description": "Resalta racks vectoriales en el plano del Data Center al seleccionar un filtro.",
+  "logoUrl": "https://raw.githubusercontent.com/google/looker-studio/master/assets/logo.png",
+  "companyUrl": "https://tuempresa.com",
+  "supportUrl": "https://tuempresa.com/soporte",
+  "packageUrl": "https://storage.googleapis.com/MI_BUCKET_DATACENTER",
+  "devMode": true
+}
