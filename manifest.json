@@ -6,6 +6,6 @@ JSON
   "logoUrl": "https://raw.githubusercontent.com/google/looker-studio/master/assets/logo.png",
   "companyUrl": "https://tuempresa.com",
   "supportUrl": "https://tuempresa.com/soporte",
-  "packageUrl": "https://storage.googleapis.com/MI_BUCKET_DATACENTER",
+  "packageUrl": "https://jimmyparada.github.io/datacenter-svg-viz/",
   "devMode": true
 }
